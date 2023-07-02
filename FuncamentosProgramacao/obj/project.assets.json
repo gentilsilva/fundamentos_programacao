@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\genti\\Documents\\workspace\\fundamentos-programacao\\FuncamentosProgramacao\\FuncamentosProgramacao.csproj",
+      "projectUniqueName": "C:\\Users\\genti\\Documents\\workspace\\fundamentos_programacao\\FuncamentosProgramacao\\FuncamentosProgramacao.csproj",
       "projectName": "FuncamentosProgramacao",
-      "projectPath": "C:\\Users\\genti\\Documents\\workspace\\fundamentos-programacao\\FuncamentosProgramacao\\FuncamentosProgramacao.csproj",
+      "projectPath": "C:\\Users\\genti\\Documents\\workspace\\fundamentos_programacao\\FuncamentosProgramacao\\FuncamentosProgramacao.csproj",
       "packagesPath": "C:\\Users\\genti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\genti\\Documents\\workspace\\fundamentos-programacao\\FuncamentosProgramacao\\obj\\",
+      "outputPath": "C:\\Users\\genti\\Documents\\workspace\\fundamentos_programacao\\FuncamentosProgramacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\genti\\AppData\\Roaming\\NuGet\\NuGet.Config",
